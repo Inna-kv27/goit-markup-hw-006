@@ -297,12 +297,6 @@ img {
     color: #404bbf;
 }
 
-@media screen and (min-width: 768px) {
-    .mobile-menu {
-        display: none;
-    }
-}
-
 /*? address */
 
 .mobile-menu-address {
@@ -375,4 +369,11 @@ img {
 
 .mobile-link-icons {
     fill: #f4f4fd;
+}
+
+
+@media screen and (min-width: 768px) {
+    .mobile-menu {
+        display: none;
+    }
 }
