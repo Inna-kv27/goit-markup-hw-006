@@ -359,10 +359,10 @@ img {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.mobile-soc-link:hover,
+/*! .mobile-soc-link:hover,
 .mobile-soc-link:focus {
     background-color: #31D0AA;
-}
+} */
 
 .mobile-link-icons {
     fill: #f4f4fd;
@@ -374,3 +374,7 @@ img {
         display: none;
     }
 }
+
+
+/** ---one--- **/
+
